@@ -1,0 +1,33 @@
+-----Data cleaning =removed outliers
+-----regression done on filtered data
+----------------------------------------------------------------------------------------------------------
+=====================
+problem statement----->>>The objective of this analysis is to predict the total deaths caused by various disaster types over the next decade using polynomial and linear regression models. By analyzing historical disaster data, the goal is to forecast future deaths to assist in disaster preparedness and policy-making.
+===================
+uestion 1)
+What is the trend of deaths in natural disasters are tehy increasing or decreasing?
+=========================================================
+Question2)
+natural disaster withhighest number of natural deaths
+========================================================
+Question3) everyone says CO2 Emissions are increasing is it actually the case??
+
+========================================================\
+Question 4)any relation between the number of deaths by natural disasters and co2 Emissions
+
+=======================================================
+Question5)
+what is the predicted value using  linear regression 
+Question 6)
+what is the predicted value of deaths uusing polynomial regression
+Question 6)
+How do the results vary
+
+
+to do in coming week.....
+
+-===>>frequency of natural disasters and co2 and Temperature
+
+=====>>something to apply on result by LinearRegressionand polynomial regression 
+=====>>claim made by an organisation and verifying it using the model
+=====>>training a model fr the purpose so that accuracy of regression can be judged 

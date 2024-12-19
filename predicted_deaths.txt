@@ -1,0 +1,341 @@
+Predictions for Earthquake (Polynomial Regression):
+Predictions for the next 10 years (Polynomial Regression) for Earthquake:
+Predicted deaths in 2024: 1722
+Predicted deaths in 2025: 1624
+Predicted deaths in 2026: 1524
+Predicted deaths in 2027: 1421
+Predicted deaths in 2028: 1315
+Predicted deaths in 2029: 1207
+Predicted deaths in 2030: 1096
+Predicted deaths in 2031: 982
+Predicted deaths in 2032: 865
+Predicted deaths in 2033: 746
+
+==================================================
+
+
+==================================================
+Predictions for Earthquake (Linear Regression):
+Predictions for the next 10 years (Linear Regression) for Earthquake:
+Predicted deaths in 2024: 3009
+Predicted deaths in 2025: 2999
+Predicted deaths in 2026: 2989
+Predicted deaths in 2027: 2979
+Predicted deaths in 2028: 2969
+Predicted deaths in 2029: 2959
+Predicted deaths in 2030: 2949
+Predicted deaths in 2031: 2939
+Predicted deaths in 2032: 2929
+Predicted deaths in 2033: 2919
+
+==================================================
+
+
+==================================================
+Predictions for Extreme weather (Polynomial Regression):
+Predictions for the next 10 years (Polynomial Regression) for Extreme weather:
+Predicted deaths in 2024: 1579
+Predicted deaths in 2025: 1429
+Predicted deaths in 2026: 1273
+Predicted deaths in 2027: 1113
+Predicted deaths in 2028: 948
+Predicted deaths in 2029: 779
+Predicted deaths in 2030: 604
+Predicted deaths in 2031: 424
+Predicted deaths in 2032: 240
+Predicted deaths in 2033: 50
+
+==================================================
+
+
+==================================================
+Predictions for Extreme weather (Linear Regression):
+Predictions for the next 10 years (Linear Regression) for Extreme weather:
+Predicted deaths in 2024: 4035
+Predicted deaths in 2025: 4047
+Predicted deaths in 2026: 4060
+Predicted deaths in 2027: 4072
+Predicted deaths in 2028: 4085
+Predicted deaths in 2029: 4097
+Predicted deaths in 2030: 4110
+Predicted deaths in 2031: 4122
+Predicted deaths in 2032: 4135
+Predicted deaths in 2033: 4147
+
+==================================================
+
+
+==================================================
+Predictions for Flood (Polynomial Regression):
+Predictions for the next 10 years (Polynomial Regression) for Flood:
+Predicted deaths in 2024: 5087
+Predicted deaths in 2025: 5002
+Predicted deaths in 2026: 4912
+Predicted deaths in 2027: 4815
+Predicted deaths in 2028: 4713
+Predicted deaths in 2029: 4604
+Predicted deaths in 2030: 4488
+Predicted deaths in 2031: 4367
+Predicted deaths in 2032: 4239
+Predicted deaths in 2033: 4104
+
+==================================================
+
+
+==================================================
+Predictions for Flood (Linear Regression):
+Predictions for the next 10 years (Linear Regression) for Flood:
+Predicted deaths in 2024: 6542
+Predicted deaths in 2025: 6600
+Predicted deaths in 2026: 6658
+Predicted deaths in 2027: 6716
+Predicted deaths in 2028: 6774
+Predicted deaths in 2029: 6832
+Predicted deaths in 2030: 6890
+Predicted deaths in 2031: 6947
+Predicted deaths in 2032: 7005
+Predicted deaths in 2033: 7063
+
+==================================================
+
+
+==================================================
+Predictions for Volcanic activity (Polynomial Regression):
+Predictions for the next 10 years (Polynomial Regression) for Volcanic activity:
+Predicted deaths in 2024: 169
+Predicted deaths in 2025: 180
+Predicted deaths in 2026: 192
+Predicted deaths in 2027: 204
+Predicted deaths in 2028: 218
+Predicted deaths in 2029: 231
+Predicted deaths in 2030: 246
+Predicted deaths in 2031: 261
+Predicted deaths in 2032: 277
+Predicted deaths in 2033: 294
+
+==================================================
+
+
+==================================================
+Predictions for Volcanic activity (Linear Regression):
+Predictions for the next 10 years (Linear Regression) for Volcanic activity:
+Predicted deaths in 2024: 14
+Predicted deaths in 2025: 9
+Predicted deaths in 2026: 5
+Predicted deaths in 2027: 0
+Predicted deaths in 2028: -4
+Predicted deaths in 2029: -8
+Predicted deaths in 2030: -13
+Predicted deaths in 2031: -17
+Predicted deaths in 2032: -21
+Predicted deaths in 2033: -26
+
+==================================================
+
+
+==================================================
+Predictions for All disasters (Polynomial Regression):
+Predictions for the next 10 years (Polynomial Regression) for All disasters:
+Predicted deaths in 2024: 10329
+Predicted deaths in 2025: 10153
+Predicted deaths in 2026: 9970
+Predicted deaths in 2027: 9780
+Predicted deaths in 2028: 9581
+Predicted deaths in 2029: 9375
+Predicted deaths in 2030: 9161
+Predicted deaths in 2031: 8940
+Predicted deaths in 2032: 8710
+Predicted deaths in 2033: 8472
+
+==================================================
+
+
+==================================================
+Predictions for All disasters (Linear Regression):
+Predictions for the next 10 years (Linear Regression) for All disasters:
+Predicted deaths in 2024: 13282
+Predicted deaths in 2025: 13339
+Predicted deaths in 2026: 13397
+Predicted deaths in 2027: 13454
+Predicted deaths in 2028: 13512
+Predicted deaths in 2029: 13569
+Predicted deaths in 2030: 13627
+Predicted deaths in 2031: 13684
+Predicted deaths in 2032: 13742
+Predicted deaths in 2033: 13799
+
+==================================================
+
+
+==================================================
+Predictions for Drought (Polynomial Regression):
+Predictions for the next 10 years (Polynomial Regression) for Drought:
+Predicted deaths in 2024: 1457
+Predicted deaths in 2025: 1513
+Predicted deaths in 2026: 1571
+Predicted deaths in 2027: 1630
+Predicted deaths in 2028: 1692
+Predicted deaths in 2029: 1756
+Predicted deaths in 2030: 1822
+Predicted deaths in 2031: 1891
+Predicted deaths in 2032: 1961
+Predicted deaths in 2033: 2034
+
+==================================================
+
+
+==================================================
+Predictions for Drought (Linear Regression):
+Predictions for the next 10 years (Linear Regression) for Drought:
+Predicted deaths in 2024: 936
+Predicted deaths in 2025: 942
+Predicted deaths in 2026: 948
+Predicted deaths in 2027: 954
+Predicted deaths in 2028: 960
+Predicted deaths in 2029: 966
+Predicted deaths in 2030: 972
+Predicted deaths in 2031: 978
+Predicted deaths in 2032: 984
+Predicted deaths in 2033: 991
+
+==================================================
+
+
+==================================================
+Predictions for Dry mass movement (Polynomial Regression):
+Predictions for the next 10 years (Polynomial Regression) for Dry mass movement:
+Predicted deaths in 2024: -104
+Predicted deaths in 2025: -119
+Predicted deaths in 2026: -134
+Predicted deaths in 2027: -149
+Predicted deaths in 2028: -165
+Predicted deaths in 2029: -182
+Predicted deaths in 2030: -199
+Predicted deaths in 2031: -216
+Predicted deaths in 2032: -234
+Predicted deaths in 2033: -253
+
+==================================================
+
+
+==================================================
+Predictions for Dry mass movement (Linear Regression):
+Predictions for the next 10 years (Linear Regression) for Dry mass movement:
+Predicted deaths in 2024: 90
+Predicted deaths in 2025: 90
+Predicted deaths in 2026: 90
+Predicted deaths in 2027: 90
+Predicted deaths in 2028: 90
+Predicted deaths in 2029: 90
+Predicted deaths in 2030: 90
+Predicted deaths in 2031: 90
+Predicted deaths in 2032: 90
+Predicted deaths in 2033: 90
+
+==================================================
+
+
+==================================================
+Predictions for Wet mass movement (Polynomial Regression):
+Predictions for the next 10 years (Polynomial Regression) for Wet mass movement:
+Predicted deaths in 2024: 812
+Predicted deaths in 2025: 812
+Predicted deaths in 2026: 812
+Predicted deaths in 2027: 812
+Predicted deaths in 2028: 812
+Predicted deaths in 2029: 811
+Predicted deaths in 2030: 811
+Predicted deaths in 2031: 811
+Predicted deaths in 2032: 810
+Predicted deaths in 2033: 810
+
+==================================================
+
+
+==================================================
+Predictions for Wet mass movement (Linear Regression):
+Predictions for the next 10 years (Linear Regression) for Wet mass movement:
+Predicted deaths in 2024: 921
+Predicted deaths in 2025: 927
+Predicted deaths in 2026: 932
+Predicted deaths in 2027: 938
+Predicted deaths in 2028: 944
+Predicted deaths in 2029: 949
+Predicted deaths in 2030: 955
+Predicted deaths in 2031: 961
+Predicted deaths in 2032: 966
+Predicted deaths in 2033: 972
+
+==================================================
+
+
+==================================================
+Predictions for Wildfire (Polynomial Regression):
+Predictions for the next 10 years (Polynomial Regression) for Wildfire:
+Predicted deaths in 2024: 125
+Predicted deaths in 2025: 128
+Predicted deaths in 2026: 132
+Predicted deaths in 2027: 135
+Predicted deaths in 2028: 139
+Predicted deaths in 2029: 143
+Predicted deaths in 2030: 147
+Predicted deaths in 2031: 151
+Predicted deaths in 2032: 155
+Predicted deaths in 2033: 159
+
+==================================================
+
+
+==================================================
+Predictions for Wildfire (Linear Regression):
+Predictions for the next 10 years (Linear Regression) for Wildfire:
+Predicted deaths in 2024: 82
+Predicted deaths in 2025: 83
+Predicted deaths in 2026: 83
+Predicted deaths in 2027: 84
+Predicted deaths in 2028: 85
+Predicted deaths in 2029: 85
+Predicted deaths in 2030: 86
+Predicted deaths in 2031: 86
+Predicted deaths in 2032: 87
+Predicted deaths in 2033: 88
+
+==================================================
+
+
+==================================================
+Predictions for Extreme temperature (Polynomial Regression):
+Predictions for the next 10 years (Polynomial Regression) for Extreme temperature:
+Predicted deaths in 2024: 1172
+Predicted deaths in 2025: 1113
+Predicted deaths in 2026: 1049
+Predicted deaths in 2027: 979
+Predicted deaths in 2028: 903
+Predicted deaths in 2029: 821
+Predicted deaths in 2030: 732
+Predicted deaths in 2031: 638
+Predicted deaths in 2032: 536
+Predicted deaths in 2033: 428
+
+==================================================
+
+
+==================================================
+Predictions for Extreme temperature (Linear Regression):
+Predictions for the next 10 years (Linear Regression) for Extreme temperature:
+Predicted deaths in 2024: 1577
+Predicted deaths in 2025: 1597
+Predicted deaths in 2026: 1617
+Predicted deaths in 2027: 1637
+Predicted deaths in 2028: 1657
+Predicted deaths in 2029: 1677
+Predicted deaths in 2030: 1697
+Predicted deaths in 2031: 1717
+Predicted deaths in 2032: 1737
+Predicted deaths in 2033: 1757
+
+==================================================
+
+
+==================================================
+Predictions for Fog (Polynomial Regression):

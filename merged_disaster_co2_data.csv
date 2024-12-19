@@ -1,0 +1,1122 @@
+Disaster Type,Year,Code,Total Deaths,Global CO2 Emissions
+All disasters,1900,0,1267470,14178.437
+All disasters excluding earthquakes,1900,0,1267330,14178.437
+All disasters excluding extreme temperature,1900,0,1267470,14178.437
+Drought,1900,0,1261000,14178.437
+Earthquake,1900,0,140,14178.437
+Extreme weather,1900,0,6000,14178.437
+Flood,1900,0,300,14178.437
+Volcanic activity,1900,0,30,14178.437
+All disasters,1901,0,18,14553.228
+All disasters excluding extreme temperature,1901,0,18,14553.228
+Earthquake,1901,0,18,14553.228
+All disasters,1902,0,48438,14863.209
+All disasters excluding earthquakes,1902,0,39290,14863.209
+All disasters excluding extreme temperature,1902,0,48438,14863.209
+Earthquake,1902,0,9148,14863.209
+Extreme weather,1902,0,600,14863.209
+Volcanic activity,1902,0,38690,14863.209
+All disasters,1903,0,7136,16084.681
+All disasters excluding earthquakes,1903,0,506,16084.681
+All disasters excluding extreme temperature,1903,0,7136,16084.681
+Drought,1903,0,0,16084.681
+Dry mass movement,1903,0,76,16084.681
+Earthquake,1903,0,6630,16084.681
+Extreme weather,1903,0,163,16084.681
+Flood,1903,0,250,16084.681
+Volcanic activity,1903,0,17,16084.681
+All disasters,1904,0,152,16295.482
+All disasters excluding earthquakes,1904,0,0,16295.482
+All disasters excluding extreme temperature,1904,0,152,16295.482
+Earthquake,1904,0,152,16295.482
+Extreme weather,1904,0,0,16295.482
+All disasters,1905,0,20946,17258.426
+All disasters excluding earthquakes,1905,0,258,17258.426
+All disasters excluding extreme temperature,1905,0,20946,17258.426
+Dry mass movement,1905,0,18,17258.426
+Earthquake,1905,0,20688,17258.426
+Extreme weather,1905,0,240,17258.426
+All disasters,1906,0,33657,17993.256
+All disasters excluding earthquakes,1906,0,11004,17993.256
+All disasters excluding extreme temperature,1906,0,33657,17993.256
+Drought,1906,0,0,17993.256
+Earthquake,1906,0,22653,17993.256
+Extreme weather,1906,0,10298,17993.256
+Flood,1906,0,6,17993.256
+Volcanic activity,1906,0,700,17993.256
+All disasters,1907,0,13241,20420.33
+All disasters excluding earthquakes,1907,0,0,20420.33
+All disasters excluding extreme temperature,1907,0,13241,20420.33
+Drought,1907,0,0,20420.33
+Earthquake,1907,0,13241,20420.33
+All disasters,1908,0,75033,19802.635
+All disasters excluding earthquakes,1908,0,33,19802.635
+All disasters excluding extreme temperature,1908,0,75033,19802.635
+Dry mass movement,1908,0,33,19802.635
+Earthquake,1908,0,75000,19802.635
+All disasters,1909,0,6316,20490.576
+All disasters excluding earthquakes,1909,0,838,20490.576
+All disasters excluding extreme temperature,1909,0,6316,20490.576
+Earthquake,1909,0,5478,20490.576
+Extreme weather,1909,0,713,20490.576
+Flood,1909,0,72,20490.576
+Wet mass movement,1909,0,53,20490.576
+All disasters,1910,0,20983,21399.904
+All disasters excluding earthquakes,1910,0,18461,21399.904
+All disasters excluding extreme temperature,1910,0,20983,21399.904
+Drought,1910,0,16990,21399.904
+Earthquake,1910,0,2522,21399.904
+Extreme weather,1910,0,30,21399.904
+Flood,1910,0,1379,21399.904
+Wet mass movement,1910,0,62,21399.904
+All disasters,1911,0,120695,21762.398
+All disasters excluding earthquakes,1911,0,119398,21762.398
+All disasters excluding extreme temperature,1911,0,120695,21762.398
+Drought,1911,0,16990,21762.398
+Earthquake,1911,0,1297,21762.398
+Extreme weather,1911,0,1000,21762.398
+Flood,1911,0,100000,21762.398
+Volcanic activity,1911,0,1335,21762.398
+Wildfire,1911,0,73,21762.398
+All disasters,1912,0,69083,22831.13
+All disasters excluding earthquakes,1912,0,68160,22831.13
+All disasters excluding extreme temperature,1912,0,69083,22831.13
+Drought,1912,0,16990,22831.13
+Earthquake,1912,0,923,22831.13
+Extreme weather,1912,0,51170,22831.13
+All disasters,1913,0,18952,24745.324
+All disasters excluding earthquakes,1913,0,17722,24745.324
+All disasters excluding extreme temperature,1913,0,18952,24745.324
+Drought,1913,0,16990,24745.324
+Earthquake,1913,0,1230,24745.324
+Extreme weather,1913,0,732,24745.324
+All disasters,1914,0,21462,22393.291
+All disasters excluding earthquakes,1914,0,17180,22393.291
+All disasters excluding extreme temperature,1914,0,21462,22393.291
+Drought,1914,0,17040,22393.291
+Earthquake,1914,0,4282,22393.291
+Extreme weather,1914,0,0,22393.291
+Volcanic activity,1914,0,140,22393.291
+All disasters,1915,0,32337,21948.669
+All disasters excluding earthquakes,1915,0,2181,21948.669
+All disasters excluding extreme temperature,1915,0,32337,21948.669
+Earthquake,1915,0,30156,21948.669
+Extreme weather,1915,0,2125,21948.669
+Flood,1915,0,0,21948.669
+Wet mass movement,1915,0,56,21948.669
+All disasters,1916,0,481,23617.786
+All disasters excluding earthquakes,1916,0,300,23617.786
+All disasters excluding extreme temperature,1916,0,481,23617.786
+Earthquake,1916,0,181,23617.786
+Extreme weather,1916,0,300,23617.786
+All disasters,1917,0,23561,24516.22
+All disasters excluding earthquakes,1917,0,4057,24516.22
+All disasters excluding extreme temperature,1917,0,23561,24516.22
+Earthquake,1917,0,19504,24516.22
+Extreme weather,1917,0,4057,24516.22
+Flood,1917,0,0,24516.22
+All disasters,1918,0,11250,23961.5
+All disasters excluding earthquakes,1918,0,1034,23961.5
+All disasters excluding extreme temperature,1918,0,11250,23961.5
+Earthquake,1918,0,10216,23961.5
+Extreme weather,1918,0,34,23961.5
+Wildfire,1918,0,1000,23961.5
+All disasters,1919,0,5500,20762.063
+All disasters excluding earthquakes,1919,0,5500,20762.063
+All disasters excluding extreme temperature,1919,0,5500,20762.063
+Drought,1919,0,0,20762.063
+Extreme weather,1919,0,500,20762.063
+Volcanic activity,1919,0,5000,20762.063
+All disasters,1920,0,706872,24137.758
+All disasters excluding earthquakes,1920,0,524224,24137.758
+All disasters excluding extreme temperature,1920,0,706872,24137.758
+Drought,1920,0,524000,24137.758
+Earthquake,1920,0,182648,24137.758
+Extreme weather,1920,0,224,24137.758
+Flood,1920,0,0,24137.758
+All disasters,1921,0,1200000,21314.2
+All disasters excluding earthquakes,1921,0,1200000,21314.2
+All disasters excluding extreme temperature,1921,0,1200000,21314.2
+Drought,1921,0,1200000,21314.2
+All disasters,1922,0,101175,22497.874
+All disasters excluding earthquakes,1922,0,100143,22497.874
+All disasters excluding extreme temperature,1922,0,101175,22497.874
+Drought,1922,0,0,22497.874
+Earthquake,1922,0,1032,22497.874
+Extreme weather,1922,0,100000,22497.874
+Wet mass movement,1922,0,100,22497.874
+Wildfire,1922,0,43,22497.874
+All disasters,1923,0,154286,25009.823
+All disasters excluding earthquakes,1923,0,3339,25009.823
+All disasters excluding extreme temperature,1923,0,154286,25009.823
+Drought,1923,0,0,25009.823
+Earthquake,1923,0,150947,25009.823
+Extreme weather,1923,0,3139,25009.823
+Wet mass movement,1923,0,200,25009.823
+All disasters,1924,0,3279,25477.167
+All disasters excluding earthquakes,1924,0,2242,25477.167
+All disasters excluding extreme temperature,1924,0,3279,25477.167
+Earthquake,1924,0,1037,25477.167
+Extreme weather,1924,0,2242,25477.167
+All disasters,1925,0,6959,25679.562
+All disasters excluding earthquakes,1925,0,819,25679.562
+All disasters excluding extreme temperature,1925,0,6959,25679.562
+Earthquake,1925,0,6140,25679.562
+Extreme weather,1925,0,819,25679.562
+Flood,1925,0,0,25679.562
+All disasters,1926,0,4852,24850.364
+All disasters excluding earthquakes,1926,0,4840,24850.364
+All disasters excluding extreme temperature,1926,0,4852,24850.364
+Earthquake,1926,0,12,24850.364
+Extreme weather,1926,0,3568,24850.364
+Flood,1926,0,1000,24850.364
+Volcanic activity,1926,0,144,24850.364
+Wet mass movement,1926,0,128,24850.364
+All disasters,1927,0,53270,27592.953
+All disasters excluding earthquakes,1927,0,9018,27592.953
+All disasters excluding extreme temperature,1927,0,53270,27592.953
+Earthquake,1927,0,44252,27592.953
+Extreme weather,1927,0,5772,27592.953
+Flood,1927,0,3246,27592.953
+All disasters,1928,0,3004895,27509.664
+All disasters excluding earthquakes,1928,0,3004260,27509.664
+All disasters excluding extreme temperature,1928,0,3004895,27509.664
+Drought,1928,0,3000000,27509.664
+Earthquake,1928,0,635,27509.664
+Extreme weather,1928,0,4224,27509.664
+Flood,1928,0,36,27509.664
+All disasters,1929,0,3330,29561.214
+All disasters excluding earthquakes,1929,0,60,29561.214
+All disasters excluding extreme temperature,1929,0,3330,29561.214
+Earthquake,1929,0,3270,29561.214
+Extreme weather,1929,0,0,29561.214
+Wildfire,1929,0,60,29561.214
+All disasters,1930,0,11054,27361.092
+All disasters excluding earthquakes,1930,0,5491,27361.092
+All disasters excluding extreme temperature,1930,0,11054,27361.092
+Earthquake,1930,0,5563,27361.092
+Extreme weather,1930,0,4082,27361.092
+Volcanic activity,1930,0,1369,27361.092
+Wet mass movement,1930,0,40,27361.092
+All disasters,1931,0,3718976,24588.58
+All disasters excluding earthquakes,1931,0,3704690,24588.58
+All disasters excluding extreme temperature,1931,0,3718976,24588.58
+Drought,1931,0,0,24588.58
+Earthquake,1931,0,14286,24588.58
+Extreme weather,1931,0,3200,24588.58
+Flood,1931,0,3700000,24588.58
+Volcanic activity,1931,0,1300,24588.58
+Wet mass movement,1931,0,190,24588.58
+All disasters,1932,0,4901,22281.043
+All disasters excluding earthquakes,1932,0,3274,22281.043
+All disasters excluding extreme temperature,1932,0,4901,22281.043
+Drought,1932,0,0,22281.043
+Earthquake,1932,0,1627,22281.043
+Extreme weather,1932,0,3244,22281.043
+Wet mass movement,1932,0,30,22281.043
+All disasters,1933,0,31442,23399.914
+All disasters excluding earthquakes,1933,0,18116,23399.914
+All disasters excluding extreme temperature,1933,0,31442,23399.914
+Drought,1933,0,0,23399.914
+Earthquake,1933,0,13326,23399.914
+Extreme weather,1933,0,63,23399.914
+Flood,1933,0,18053,23399.914
+All disasters,1934,0,5711,25483.961
+All disasters excluding earthquakes,1934,0,5591,25483.961
+All disasters excluding extreme temperature,1934,0,5711,25483.961
+Drought,1934,0,0,25483.961
+Earthquake,1934,0,120,25483.961
+Extreme weather,1934,0,5091,25483.961
+Wet mass movement,1934,0,500,25483.961
+All disasters,1935,0,272119,26754.322
+All disasters excluding earthquakes,1935,0,204707,26754.322
+All disasters excluding extreme temperature,1935,0,272119,26754.322
+Drought,1935,0,0,26754.322
+Earthquake,1935,0,67412,26754.322
+Extreme weather,1935,0,62707,26754.322
+Flood,1935,0,142000,26754.322
+All disasters,1936,0,5886,29231.678
+All disasters excluding earthquakes,1936,0,5275,29231.678
+All disasters excluding extreme temperature,1936,0,4193,29231.678
+Drought,1936,0,0,29231.678
+Earthquake,1936,0,611,29231.678
+Extreme temperature,1936,0,1693,29231.678
+Extreme weather,1936,0,3309,29231.678
+Flood,1936,0,200,29231.678
+Wet mass movement,1936,0,73,29231.678
+All disasters,1937,0,12450,31317.894
+All disasters excluding earthquakes,1937,0,12025,31317.894
+All disasters excluding extreme temperature,1937,0,12450,31317.894
+Drought,1937,0,0,31317.894
+Dry mass movement,1937,0,40,31317.894
+Earthquake,1937,0,425,31317.894
+Extreme weather,1937,0,11231,31317.894
+Flood,1937,0,248,31317.894
+Volcanic activity,1937,0,506,31317.894
+All disasters,1938,0,2208,29739.049
+All disasters excluding earthquakes,1938,0,2059,29739.049
+All disasters excluding extreme temperature,1938,0,2208,29739.049
+Drought,1938,0,0,29739.049
+Earthquake,1938,0,149,29739.049
+Extreme weather,1938,0,905,29739.049
+Flood,1938,0,954,29739.049
+Wet mass movement,1938,0,200,29739.049
+All disasters,1939,0,563205,31322.368
+All disasters excluding earthquakes,1939,0,500084,31322.368
+All disasters excluding extreme temperature,1939,0,563205,31322.368
+Drought,1939,0,0,31322.368
+Earthquake,1939,0,63121,31322.368
+Extreme weather,1939,0,3,31322.368
+Flood,1939,0,500010,31322.368
+Wildfire,1939,0,71,31322.368
+All disasters,1940,0,5656,34099.705
+All disasters excluding earthquakes,1940,0,4254,34099.705
+All disasters excluding extreme temperature,1940,0,5656,34099.705
+Drought,1940,0,4006,34099.705
+Earthquake,1940,0,1402,34099.705
+Extreme weather,1940,0,123,34099.705
+Flood,1940,0,125,34099.705
+All disasters,1941,0,16997,34579.204
+All disasters excluding earthquakes,1941,0,14141,34579.204
+All disasters excluding extreme temperature,1941,0,16997,34579.204
+Drought,1941,0,3995,34579.204
+Earthquake,1941,0,2856,34579.204
+Extreme weather,1941,0,5146,34579.204
+Wet mass movement,1941,0,5000,34579.204
+All disasters,1942,0,1608421,34180.664
+All disasters excluding earthquakes,1942,0,1604995,34180.664
+All disasters excluding extreme temperature,1942,0,1608421,34180.664
+Drought,1942,0,1503995,34180.664
+Earthquake,1942,0,3426,34180.664
+Extreme weather,1942,0,101000,34180.664
+All disasters,1943,0,1916969,34712.577
+All disasters excluding earthquakes,1943,0,1909985,34712.577
+All disasters excluding extreme temperature,1943,0,1916969,34712.577
+Drought,1943,0,1903995,34712.577
+Earthquake,1943,0,6984,34712.577
+Extreme weather,1943,0,5000,34712.577
+Flood,1943,0,990,34712.577
+Volcanic activity,1943,0,0,34712.577
+All disasters,1944,0,20181,34952.904
+All disasters excluding earthquakes,1944,0,4931,34952.904
+All disasters excluding extreme temperature,1944,0,20181,34952.904
+Drought,1944,0,4009,34952.904
+Earthquake,1944,0,15250,34952.904
+Extreme weather,1944,0,726,34952.904
+Volcanic activity,1944,0,26,34952.904
+Wildfire,1944,0,170,34952.904
+All disasters,1945,0,11358,28399.422
+All disasters excluding earthquakes,1945,0,4415,28399.422
+All disasters excluding extreme temperature,1945,0,11358,28399.422
+Earthquake,1945,0,6943,28399.422
+Extreme weather,1945,0,4415,28399.422
+Volcanic activity,1945,0,0,28399.422
+All disasters,1946,0,35563,31599.399
+All disasters excluding earthquakes,1946,0,30337,31599.399
+All disasters excluding extreme temperature,1946,0,35563,31599.399
+Drought,1946,0,30000,31599.399
+Earthquake,1946,0,5226,31599.399
+Extreme weather,1946,0,337,31599.399
+Volcanic activity,1946,0,0,31599.399
+All disasters,1947,0,7374,35167.729
+All disasters excluding earthquakes,1947,0,6738,35167.729
+All disasters excluding extreme temperature,1947,0,7374,35167.729
+Drought,1947,0,0,35167.729
+Earthquake,1947,0,636,35167.729
+Extreme weather,1947,0,4738,35167.729
+Flood,1947,0,2000,35167.729
+Wildfire,1947,0,0,35167.729
+All disasters,1948,0,120828,37163.63
+All disasters excluding earthquakes,1948,0,4513,37163.63
+All disasters excluding extreme temperature,1948,0,120828,37163.63
+Earthquake,1948,0,116315,37163.63
+Extreme weather,1948,0,2971,37163.63
+Flood,1948,0,917,37163.63
+Volcanic activity,1948,0,100,37163.63
+Wet mass movement,1948,0,525,37163.63
+All disasters,1949,0,123774,36025.832
+All disasters excluding earthquakes,1949,0,113884,36025.832
+All disasters excluding extreme temperature,1949,0,123774,36025.832
+Earthquake,1949,0,9890,36025.832
+Extreme weather,1949,0,2804,36025.832
+Flood,1949,0,97000,36025.832
+Volcanic activity,1949,0,2000,36025.832
+Wet mass movement,1949,0,12000,36025.832
+Wildfire,1949,0,80,36025.832
+All disasters,1950,0,6845,40292.509
+All disasters excluding earthquakes,1950,0,4895,40292.509
+All disasters excluding extreme temperature,1950,0,6845,40292.509
+Earthquake,1950,0,1950,40292.509
+Extreme weather,1950,0,873,40292.509
+Flood,1950,0,3808,40292.509
+Volcanic activity,1950,0,84,40292.509
+Wet mass movement,1950,0,130,40292.509
+All disasters,1951,0,18227,43446.356
+All disasters excluding earthquakes,1951,0,13488,43446.356
+All disasters excluding extreme temperature,1951,0,18158,43446.356
+Earthquake,1951,0,4739,43446.356
+Extreme temperature,1951,0,69,43446.356
+Extreme weather,1951,0,2861,43446.356
+Flood,1951,0,5666,43446.356
+Volcanic activity,1951,0,4800,43446.356
+Wet mass movement,1951,0,92,43446.356
+All disasters,1952,0,6886,44133.58
+All disasters excluding earthquakes,1952,0,6533,44133.58
+All disasters excluding extreme temperature,1952,0,6886,44133.58
+Earthquake,1952,0,353,44133.58
+Extreme weather,1952,0,2277,44133.58
+Flood,1952,0,199,44133.58
+Fog,1952,0,4000,44133.58
+Volcanic activity,1952,0,29,44133.58
+Wet mass movement,1952,0,28,44133.58
+All disasters,1953,0,12516,45395.844
+All disasters excluding earthquakes,1953,0,9758,45395.844
+All disasters excluding extreme temperature,1953,0,11847,45395.844
+Earthquake,1953,0,2758,45395.844
+Extreme temperature,1953,0,669,45395.844
+Extreme weather,1953,0,1814,45395.844
+Flood,1953,0,7125,45395.844
+Volcanic activity,1953,0,150,45395.844
+All disasters,1954,0,41847,46613.04
+All disasters excluding earthquakes,1954,0,38528,46613.04
+All disasters excluding extreme temperature,1954,0,41847,46613.04
+Earthquake,1954,0,3319,46613.04
+Extreme weather,1954,0,2969,46613.04
+Flood,1954,0,34436,46613.04
+Volcanic activity,1954,0,37,46613.04
+Wet mass movement,1954,0,1086,46613.04
+All disasters,1955,0,5556,51024.617
+All disasters excluding earthquakes,1955,0,5067,51024.617
+All disasters excluding extreme temperature,1955,0,5449,51024.617
+Dry mass movement,1955,0,3,51024.617
+Earthquake,1955,0,489,51024.617
+Extreme temperature,1955,0,107,51024.617
+Extreme weather,1955,0,3895,51024.617
+Flood,1955,0,584,51024.617
+Wet mass movement,1955,0,478,51024.617
+All disasters,1956,0,7737,54356.421
+All disasters excluding earthquakes,1956,0,6974,54356.421
+All disasters excluding extreme temperature,1956,0,7737,54356.421
+Earthquake,1956,0,763,54356.421
+Extreme weather,1956,0,3114,54356.421
+Flood,1956,0,3613,54356.421
+Volcanic activity,1956,0,0,54356.421
+Wet mass movement,1956,0,236,54356.421
+Wildfire,1956,0,11,54356.421
+All disasters,1957,0,10580,56167.926
+All disasters excluding earthquakes,1957,0,3610,56167.926
+All disasters excluding extreme temperature,1957,0,10580,56167.926
+Earthquake,1957,0,6970,56167.926
+Extreme weather,1957,0,1139,56167.926
+Flood,1957,0,2471,56167.926
+Volcanic activity,1957,0,0,56167.926
+All disasters,1958,0,4061,57726.636
+All disasters excluding earthquakes,1958,0,3723,57726.636
+All disasters excluding extreme temperature,1958,0,3410,57726.636
+Earthquake,1958,0,338,57726.636
+Extreme temperature,1958,0,651,57726.636
+Extreme weather,1958,0,2620,57726.636
+Flood,1958,0,400,57726.636
+Wet mass movement,1958,0,52,57726.636
+All disasters,1959,0,496147,60534.278
+All disasters excluding earthquakes,1959,0,496078,60534.278
+All disasters excluding extreme temperature,1959,0,496147,60534.278
+Earthquake,1959,0,69,60534.278
+Extreme weather,1959,0,9695,60534.278
+Flood,1959,0,486335,60534.278
+Wet mass movement,1959,0,48,60534.278
+All disasters,1960,0,997729,64213.591
+All disasters excluding earthquakes,1960,0,977798,64213.591
+All disasters excluding extreme temperature,1960,0,997729,64213.591
+Drought,1960,0,0,64213.591
+Earthquake,1960,0,19931,64213.591
+Extreme weather,1960,0,9164,64213.591
+Flood,1960,0,968582,64213.591
+Volcanic activity,1960,0,0,64213.591
+Wet mass movement,1960,0,52,64213.591
+All disasters,1961,0,576437,64650.174
+All disasters excluding earthquakes,1961,0,576337,64650.174
+All disasters excluding extreme temperature,1961,0,576037,64650.174
+Drought,1961,0,0,64650.174
+Earthquake,1961,0,100,64650.174
+Extreme temperature,1961,0,400,64650.174
+Extreme weather,1961,0,12852,64650.174
+Flood,1961,0,562919,64650.174
+Wet mass movement,1961,0,166,64650.174
+All disasters,1962,0,17239,67124.201
+All disasters excluding earthquakes,1962,0,5161,67124.201
+All disasters excluding extreme temperature,1962,0,17189,67124.201
+Dry mass movement,1962,0,2000,67124.201
+Earthquake,1962,0,12078,67124.201
+Extreme temperature,1962,0,50,67124.201
+Extreme weather,1962,0,1860,67124.201
+Flood,1962,0,1180,67124.201
+Wet mass movement,1962,0,71,67124.201
+All disasters,1963,0,36431,70809.193
+All disasters excluding earthquakes,1963,0,35046,70809.193
+All disasters excluding extreme temperature,1963,0,36269,70809.193
+Drought,1963,0,0,70809.193
+Dry mass movement,1963,0,150,70809.193
+Earthquake,1963,0,1385,70809.193
+Extreme temperature,1963,0,162,70809.193
+Extreme weather,1963,0,29965,70809.193
+Flood,1963,0,1031,70809.193
+Volcanic activity,1963,0,1705,70809.193
+Wet mass movement,1963,0,2033,70809.193
+All disasters,1964,0,12275,74628.806
+All disasters excluding earthquakes,1964,0,11940,74628.806
+All disasters excluding extreme temperature,1964,0,12275,74628.806
+Drought,1964,0,50,74628.806
+Earthquake,1964,0,335,74628.806
+Extreme weather,1964,0,10655,74628.806
+Flood,1964,0,1123,74628.806
+Volcanic activity,1964,0,4,74628.806
+Wet mass movement,1964,0,108,74628.806
+All disasters,1965,0,564713,77892.564
+All disasters excluding earthquakes,1965,0,564018,77892.564
+All disasters excluding extreme temperature,1965,0,564613,77892.564
+Drought,1965,0,502000,77892.564
+Earthquake,1965,0,695,77892.564
+Extreme temperature,1965,0,100,77892.564
+Extreme weather,1965,0,59932,77892.564
+Flood,1965,0,1401,77892.564
+Volcanic activity,1965,0,355,77892.564
+Wet mass movement,1965,0,230,77892.564
+Wildfire,1965,0,0,77892.564
+All disasters,1966,0,517018,81547.026
+All disasters excluding earthquakes,1966,0,514229,81547.026
+All disasters excluding extreme temperature,1966,0,516756,81547.026
+Drought,1966,0,508000,81547.026
+Earthquake,1966,0,2789,81547.026
+Extreme temperature,1966,0,262,81547.026
+Extreme weather,1966,0,2327,81547.026
+Flood,1966,0,1923,81547.026
+Volcanic activity,1966,0,1088,81547.026
+Wet mass movement,1966,0,604,81547.026
+Wildfire,1966,0,25,81547.026
+All disasters,1967,0,506507,84078.069
+All disasters excluding earthquakes,1967,0,505552,84078.069
+All disasters excluding extreme temperature,1967,0,506507,84078.069
+Drought,1967,0,500199,84078.069
+Earthquake,1967,0,955,84078.069
+Extreme weather,1967,0,2255,84078.069
+Flood,1967,0,2446,84078.069
+Wet mass movement,1967,0,590,84078.069
+Wildfire,1967,0,62,84078.069
+All disasters,1968,0,22196,88658.222
+All disasters excluding earthquakes,1968,0,10625,88658.222
+All disasters excluding extreme temperature,1968,0,22043,88658.222
+Drought,1968,0,199,88658.222
+Earthquake,1968,0,11571,88658.222
+Extreme temperature,1968,0,153,88658.222
+Extreme weather,1968,0,1669,88658.222
+Flood,1968,0,7306,88658.222
+Volcanic activity,1968,0,90,88658.222
+Wet mass movement,1968,0,1196,88658.222
+Wildfire,1968,0,12,88658.222
+All disasters,1969,0,8396,94499.756
+All disasters excluding earthquakes,1969,0,5016,94499.756
+All disasters excluding extreme temperature,1969,0,8396,94499.756
+Drought,1969,0,202,94499.756
+Earthquake,1969,0,3380,94499.756
+Extreme weather,1969,0,3252,94499.756
+Flood,1969,0,1544,94499.756
+Volcanic activity,1969,0,0,94499.756
+Wet mass movement,1969,0,18,94499.756
+Wildfire,1969,0,0,94499.756
+All disasters,1970,0,386150,102053.726
+All disasters excluding earthquakes,1970,0,307969,102053.726
+All disasters excluding extreme temperature,1970,0,386150,102053.726
+Drought,1970,0,0,102053.726
+Earthquake,1970,0,78181,102053.726
+Extreme weather,1970,0,304495,102053.726
+Flood,1970,0,3246,102053.726
+Wet mass movement,1970,0,228,102053.726
+Wildfire,1970,0,0,102053.726
+All disasters,1971,0,15774,106208.91
+All disasters excluding earthquakes,1971,0,14666,106208.91
+All disasters excluding extreme temperature,1971,0,15374,106208.91
+Drought,1971,0,0,106208.91
+Earthquake,1971,0,1108,106208.91
+Extreme temperature,1971,0,400,106208.91
+Extreme weather,1971,0,10811,106208.91
+Flood,1971,0,2404,106208.91
+Volcanic activity,1971,0,0,106208.91
+Wet mass movement,1971,0,1051,106208.91
+All disasters,1972,0,20023,110993.888
+All disasters excluding earthquakes,1972,0,4840,110993.888
+All disasters excluding extreme temperature,1972,0,19913,110993.888
+Drought,1972,0,0,110993.888
+Earthquake,1972,0,15183,110993.888
+Extreme temperature,1972,0,110,110993.888
+Extreme weather,1972,0,1427,110993.888
+Flood,1972,0,2548,110993.888
+Wet mass movement,1972,0,755,110993.888
+All disasters,1973,0,12257,116828.091
+All disasters excluding earthquakes,1973,0,11666,116828.091
+All disasters excluding extreme temperature,1973,0,11974,116828.091
+Drought,1973,0,1669,116828.091
+Earthquake,1973,0,591,116828.091
+Extreme temperature,1973,0,283,116828.091
+Extreme weather,1973,0,4344,116828.091
+Flood,1973,0,1829,116828.091
+Volcanic activity,1973,0,0,116828.091
+Wet mass movement,1973,0,3541,116828.091
+Wildfire,1973,0,0,116828.091
+All disasters,1974,0,87458,116620.367
+All disasters excluding earthquakes,1974,0,62629,116620.367
+All disasters excluding extreme temperature,1974,0,87458,116620.367
+Drought,1974,0,20427,116620.367
+Earthquake,1974,0,24829,116620.367
+Extreme weather,1974,0,11861,116620.367
+Flood,1974,0,29437,116620.367
+Wet mass movement,1974,0,904,116620.367
+All disasters,1975,0,55614,117119.698
+All disasters excluding earthquakes,1975,0,50982,117119.698
+All disasters excluding extreme temperature,1975,0,55474,117119.698
+Drought,1975,0,28756,117119.698
+Earthquake,1975,0,4632,117119.698
+Extreme temperature,1975,0,140,117119.698
+Extreme weather,1975,0,1041,117119.698
+Flood,1975,0,20848,117119.698
+Volcanic activity,1975,0,2,117119.698
+Wet mass movement,1975,0,195,117119.698
+All disasters,1976,0,308866,123723.807
+All disasters excluding earthquakes,1976,0,31861,123723.807
+All disasters excluding extreme temperature,1976,0,308866,123723.807
+Drought,1976,0,28782,123723.807
+Earthquake,1976,0,277005,123723.807
+Extreme weather,1976,0,1763,123723.807
+Flood,1976,0,960,123723.807
+Volcanic activity,1976,0,41,123723.807
+Wet mass movement,1976,0,315,123723.807
+Wildfire,1976,0,0,123723.807
+All disasters,1977,0,40877,126982.436
+All disasters excluding earthquakes,1977,0,37779,126982.436
+All disasters excluding extreme temperature,1977,0,40877,126982.436
+Drought,1977,0,19655,126982.436
+Earthquake,1977,0,3098,126982.436
+Extreme temperature,1977,0,0,126982.436
+Extreme weather,1977,0,15298,126982.436
+Flood,1977,0,2568,126982.436
+Volcanic activity,1977,0,215,126982.436
+Wet mass movement,1977,0,40,126982.436
+Wildfire,1977,0,3,126982.436
+All disasters,1978,0,54747,130895.743
+All disasters excluding earthquakes,1978,0,29585,130895.743
+All disasters excluding extreme temperature,1978,0,54597,130895.743
+Drought,1978,0,19774,130895.743
+Earthquake,1978,0,25162,130895.743
+Extreme temperature,1978,0,150,130895.743
+Extreme weather,1978,0,3676,130895.743
+Flood,1978,0,5897,130895.743
+Volcanic activity,1978,0,0,130895.743
+Wet mass movement,1978,0,86,130895.743
+Wildfire,1978,0,2,130895.743
+All disasters,1979,0,6829,134658.442
+All disasters excluding earthquakes,1979,0,4755,134658.442
+All disasters excluding extreme temperature,1979,0,6359,134658.442
+Drought,1979,0,18,134658.442
+Earthquake,1979,0,2074,134658.442
+Extreme temperature,1979,0,470,134658.442
+Extreme weather,1979,0,2623,134658.442
+Flood,1979,0,1038,134658.442
+Volcanic activity,1979,0,268,134658.442
+Wet mass movement,1979,0,338,134658.442
+Wildfire,1979,0,0,134658.442
+All disasters,1980,0,21313,134028.41
+All disasters excluding earthquakes,1980,0,13674,134028.41
+All disasters excluding extreme temperature,1980,0,19924,134028.41
+Drought,1980,0,0,134028.41
+Dry mass movement,1980,0,50,134028.41
+Earthquake,1980,0,7639,134028.41
+Extreme temperature,1980,0,1389,134028.41
+Extreme weather,1980,0,1379,134028.41
+Flood,1980,0,10466,134028.41
+Volcanic activity,1980,0,90,134028.41
+Wet mass movement,1980,0,300,134028.41
+Wildfire,1980,0,0,134028.41
+All disasters,1981,0,34082,130774.158
+All disasters excluding earthquakes,1981,0,30103,130774.158
+All disasters excluding extreme temperature,1981,0,33782,130774.158
+Drought,1981,0,20109,130774.158
+Earthquake,1981,0,3979,130774.158
+Extreme temperature,1981,0,300,130774.158
+Extreme weather,1981,0,3790,130774.158
+Flood,1981,0,5283,130774.158
+Volcanic activity,1981,0,192,130774.158
+Wet mass movement,1981,0,421,130774.158
+Wildfire,1981,0,8,130774.158
+All disasters,1982,0,31593,129917.155
+All disasters excluding earthquakes,1982,0,29410,129917.155
+All disasters excluding extreme temperature,1982,0,31193,129917.155
+Drought,1982,0,20988,129917.155
+Dry mass movement,1982,0,46,129917.155
+Earthquake,1982,0,2183,129917.155
+Extreme temperature,1982,0,400,129917.155
+Extreme weather,1982,0,2782,129917.155
+Flood,1982,0,4409,129917.155
+Volcanic activity,1982,0,130,129917.155
+Wet mass movement,1982,0,653,129917.155
+Wildfire,1982,0,2,129917.155
+All disasters,1983,0,192666,130738.059
+All disasters excluding earthquakes,1983,0,190372,130738.059
+All disasters excluding extreme temperature,1983,0,192461,130738.059
+Drought,1983,0,182525,130738.059
+Dry mass movement,1983,0,457,130738.059
+Earthquake,1983,0,2294,130738.059
+Extreme temperature,1983,0,205,130738.059
+Extreme weather,1983,0,3590,130738.059
+Flood,1983,0,2321,130738.059
+Volcanic activity,1983,0,0,130738.059
+Wet mass movement,1983,0,1168,130738.059
+Wildfire,1983,0,106,130738.059
+All disasters,1984,0,263563,134909.06
+All disasters excluding earthquakes,1984,0,263503,134909.06
+All disasters excluding extreme temperature,1984,0,263273,134909.06
+Drought,1984,0,255067,134909.06
+Earthquake,1984,0,60,134909.06
+Extreme temperature,1984,0,290,134909.06
+Extreme weather,1984,0,4934,134909.06
+Flood,1984,0,2930,134909.06
+Volcanic activity,1984,0,37,134909.06
+Wet mass movement,1984,0,228,134909.06
+Wildfire,1984,0,17,134909.06
+All disasters,1985,0,129718,139622.058
+All disasters excluding earthquakes,1985,0,119866,139622.058
+All disasters excluding extreme temperature,1985,0,129262,139622.058
+Drought,1985,0,75341,139622.058
+Dry mass movement,1985,0,300,139622.058
+Earthquake,1985,0,9852,139622.058
+Extreme temperature,1985,0,456,139622.058
+Extreme weather,1985,0,17165,139622.058
+Flood,1985,0,4376,139622.058
+Volcanic activity,1985,0,21800,139622.058
+Wet mass movement,1985,0,377,139622.058
+Wildfire,1985,0,51,139622.058
+All disasters,1986,0,7303,141422.505
+All disasters excluding earthquakes,1986,0,6122,141422.505
+All disasters excluding extreme temperature,1986,0,7253,141422.505
+Drought,1986,0,84,141422.505
+Earthquake,1986,0,1181,141422.505
+Extreme temperature,1986,0,50,141422.505
+Extreme weather,1986,0,1939,141422.505
+Flood,1986,0,1782,141422.505
+Volcanic activity,1986,0,1746,141422.505
+Wet mass movement,1986,0,501,141422.505
+Wildfire,1986,0,20,141422.505
+All disasters,1987,0,18932,144860.551
+All disasters excluding earthquakes,1987,0,13781,144860.551
+All disasters excluding extreme temperature,1987,0,17712,144860.551
+Drought,1987,0,1317,144860.551
+Dry mass movement,1987,0,131,144860.551
+Earthquake,1987,0,5151,144860.551
+Extreme temperature,1987,0,1220,144860.551
+Extreme weather,1987,0,2900,144860.551
+Flood,1987,0,6766,144860.551
+Volcanic activity,1987,0,0,144860.551
+Wet mass movement,1987,0,1256,144860.551
+Wildfire,1987,0,191,144860.551
+All disasters,1988,0,42069,150134.679
+All disasters excluding earthquakes,1988,0,15030,150134.679
+All disasters excluding extreme temperature,1988,0,41425,150134.679
+Drought,1988,0,1431,150134.679
+Dry mass movement,1988,0,157,150134.679
+Earthquake,1988,0,27039,150134.679
+Extreme temperature,1988,0,644,150134.679
+Extreme weather,1988,0,3335,150134.679
+Flood,1988,0,8504,150134.679
+Volcanic activity,1988,0,7,150134.679
+Wet mass movement,1988,0,952,150134.679
+All disasters,1989,0,10789,151956.291
+All disasters excluding earthquakes,1989,0,10139,151956.291
+All disasters excluding extreme temperature,1989,0,10408,151956.291
+Drought,1989,0,279,151956.291
+Dry mass movement,1989,0,55,151956.291
+Earthquake,1989,0,650,151956.291
+Extreme temperature,1989,0,381,151956.291
+Extreme weather,1989,0,4262,151956.291
+Flood,1989,0,4716,151956.291
+Volcanic activity,1989,0,0,151956.291
+Wet mass movement,1989,0,445,151956.291
+Wildfire,1989,0,1,151956.291
+All disasters,1990,0,50963,154811.927
+All disasters excluding earthquakes,1990,0,8118,154811.927
+All disasters excluding extreme temperature,1990,0,49984,154811.927
+Drought,1990,0,42,154811.927
+Dry mass movement,1990,0,73,154811.927
+Earthquake,1990,0,42845,154811.927
+Extreme temperature,1990,0,979,154811.927
+Extreme weather,1990,0,4604,154811.927
+Flood,1990,0,2246,154811.927
+Volcanic activity,1990,0,33,154811.927
+Wet mass movement,1990,0,141,154811.927
+Wildfire,1990,0,0,154811.927
+All disasters,1991,0,158987,157735.427
+All disasters excluding earthquakes,1991,0,156533,157735.427
+All disasters excluding extreme temperature,1991,0,158230,157735.427
+Drought,1991,0,2042,157735.427
+Dry mass movement,1991,0,86,157735.427
+Earthquake,1991,0,2454,157735.427
+Extreme temperature,1991,0,757,157735.427
+Extreme weather,1991,0,146297,157735.427
+Flood,1991,0,5850,157735.427
+Volcanic activity,1991,0,683,157735.427
+Wet mass movement,1991,0,728,157735.427
+Wildfire,1991,0,90,157735.427
+All disasters,1992,0,12280,152130.362
+All disasters excluding earthquakes,1992,0,8247,152130.362
+All disasters excluding extreme temperature,1992,0,11814,152130.362
+Drought,1992,0,43,152130.362
+Dry mass movement,1992,0,323,152130.362
+Earthquake,1992,0,4033,152130.362
+Extreme temperature,1992,0,466,152130.362
+Extreme weather,1992,0,1344,152130.362
+Flood,1992,0,5236,152130.362
+Volcanic activity,1992,0,1,152130.362
+Wet mass movement,1992,0,712,152130.362
+Wildfire,1992,0,122,152130.362
+All disasters,1993,0,21170,153050.727
+All disasters excluding earthquakes,1993,0,11082,153050.727
+All disasters excluding extreme temperature,1993,0,21064,153050.727
+Drought,1993,0,0,153050.727
+Dry mass movement,1993,0,106,153050.727
+Earthquake,1993,0,10088,153050.727
+Extreme temperature,1993,0,106,153050.727
+Extreme weather,1993,0,2965,153050.727
+Flood,1993,0,6150,153050.727
+Volcanic activity,1993,0,99,153050.727
+Wet mass movement,1993,0,1653,153050.727
+Wildfire,1993,0,3,153050.727
+All disasters,1994,0,13085,153807.581
+All disasters excluding earthquakes,1994,0,11843,153807.581
+All disasters excluding extreme temperature,1994,0,12744,153807.581
+Drought,1994,0,0,153807.581
+Earthquake,1994,0,1242,153807.581
+Extreme temperature,1994,0,341,153807.581
+Extreme weather,1994,0,4239,153807.581
+Flood,1994,0,6771,153807.581
+Volcanic activity,1994,0,101,153807.581
+Wet mass movement,1994,0,307,153807.581
+Wildfire,1994,0,84,153807.581
+All disasters,1995,0,22676,156583.345
+All disasters excluding earthquakes,1995,0,14937,156583.345
+All disasters excluding extreme temperature,1995,0,20946,156583.345
+Drought,1995,0,0,156583.345
+Earthquake,1995,0,7739,156583.345
+Extreme temperature,1995,0,1730,156583.345
+Extreme weather,1995,0,3763,156583.345
+Flood,1995,0,7894,156583.345
+Volcanic activity,1995,0,0,156583.345
+Wet mass movement,1995,0,1521,156583.345
+Wildfire,1995,0,29,156583.345
+All disasters,1996,0,14751,160990.208
+All disasters excluding earthquakes,1996,0,14175,160990.208
+All disasters excluding extreme temperature,1996,0,14451,160990.208
+Drought,1996,0,0,160990.208
+Earthquake,1996,0,576,160990.208
+Extreme temperature,1996,0,300,160990.208
+Extreme weather,1996,0,4581,160990.208
+Flood,1996,0,8090,160990.208
+Volcanic activity,1996,0,4,160990.208
+Wet mass movement,1996,0,1155,160990.208
+Wildfire,1996,0,45,160990.208
+All disasters,1997,0,18732,161436.815
+All disasters excluding earthquakes,1997,0,15673,161436.815
+All disasters excluding extreme temperature,1997,0,18128,161436.815
+Drought,1997,0,687,161436.815
+Earthquake,1997,0,3059,161436.815
+Extreme temperature,1997,0,604,161436.815
+Extreme weather,1997,0,5674,161436.815
+Flood,1997,0,7588,161436.815
+Volcanic activity,1997,0,53,161436.815
+Wet mass movement,1997,0,801,161436.815
+Wildfire,1997,0,266,161436.815
+All disasters,1998,0,50368,160737.447
+All disasters excluding earthquakes,1998,0,40795,160737.447
+All disasters excluding extreme temperature,1998,0,47099,160737.447
+Drought,1998,0,65,160737.447
+Earthquake,1998,0,9573,160737.447
+Extreme temperature,1998,0,3269,160737.447
+Extreme weather,1998,0,25411,160737.447
+Flood,1998,0,10759,160737.447
+Volcanic activity,1998,0,0,160737.447
+Wet mass movement,1998,0,1141,160737.447
+Wildfire,1998,0,150,160737.447
+All disasters,1999,0,70261,163714.996
+All disasters excluding earthquakes,1999,0,48392,163714.996
+All disasters excluding extreme temperature,1999,0,69490,163714.996
+Drought,1999,0,27,163714.996
+Earthquake,1999,0,21869,163714.996
+Extreme temperature,1999,0,771,163714.996
+Extreme weather,1999,0,12270,163714.996
+Flood,1999,0,34809,163714.996
+Volcanic activity,1999,0,0,163714.996
+Wet mass movement,1999,0,445,163714.996
+Wildfire,1999,0,70,163714.996
+All disasters,2000,0,9727,167972.619
+All disasters excluding earthquakes,2000,0,9510,167972.619
+All disasters excluding extreme temperature,2000,0,8793,167972.619
+Drought,2000,0,142,167972.619
+Dry mass movement,2000,0,11,167972.619
+Earthquake,2000,0,217,167972.619
+Extreme temperature,2000,0,934,167972.619
+Extreme weather,2000,0,1365,167972.619
+Flood,2000,0,5999,167972.619
+Volcanic activity,2000,0,0,167972.619
+Wet mass movement,2000,0,1012,167972.619
+Wildfire,2000,0,47,167972.619
+All disasters,2001,0,31039,169372.638
+All disasters excluding earthquakes,2001,0,9691,169372.638
+All disasters excluding extreme temperature,2001,0,29305,169372.638
+Drought,2001,0,252,169372.638
+Earthquake,2001,0,21348,169372.638
+Extreme temperature,2001,0,1734,169372.638
+Extreme weather,2001,0,1911,169372.638
+Flood,2001,0,4975,169372.638
+Volcanic activity,2001,0,0,169372.638
+Wet mass movement,2001,0,786,169372.638
+Wildfire,2001,0,33,169372.638
+All disasters,2002,0,12157,172799.903
+All disasters excluding earthquakes,2002,0,10518,172799.903
+All disasters excluding extreme temperature,2002,0,9235,172799.903
+Drought,2002,0,671,172799.903
+Dry mass movement,2002,0,60,172799.903
+Earthquake,2002,0,1639,172799.903
+Extreme temperature,2002,0,2922,172799.903
+Extreme weather,2002,0,1380,172799.903
+Flood,2002,0,4179,172799.903
+Volcanic activity,2002,0,200,172799.903
+Wet mass movement,2002,0,1100,172799.903
+Wildfire,2002,0,6,172799.903
+All disasters,2003,0,109915,181647.4
+All disasters excluding earthquakes,2003,0,80298,181647.4
+All disasters excluding extreme temperature,2003,0,35106,181647.4
+Drought,2003,0,45,181647.4
+Earthquake,2003,0,29617,181647.4
+Extreme temperature,2003,0,74809,181647.4
+Extreme weather,2003,0,1051,181647.4
+Flood,2003,0,3730,181647.4
+Volcanic activity,2003,0,0,181647.4
+Wet mass movement,2003,0,616,181647.4
+Wildfire,2003,0,47,181647.4
+All disasters,2004,0,242186,187467.368
+All disasters excluding earthquakes,2004,0,14896,187467.368
+All disasters excluding extreme temperature,2004,0,241542,187467.368
+Drought,2004,0,80,187467.368
+Dry mass movement,2004,0,44,187467.368
+Earthquake,2004,0,227290,187467.368
+Extreme temperature,2004,0,644,187467.368
+Extreme weather,2004,0,6547,187467.368
+Flood,2004,0,7162,187467.368
+Volcanic activity,2004,0,2,187467.368
+Wet mass movement,2004,0,403,187467.368
+Wildfire,2004,0,14,187467.368
+All disasters,2005,0,89215,193289.338
+All disasters excluding earthquakes,2005,0,12974,193289.338
+All disasters excluding extreme temperature,2005,0,87946,193289.338
+Drought,2005,0,114,193289.338
+Earthquake,2005,0,76241,193289.338
+Extreme temperature,2005,0,1269,193289.338
+Extreme weather,2005,0,5233,193289.338
+Flood,2005,0,5649,193289.338
+Volcanic activity,2005,0,3,193289.338
+Wet mass movement,2005,0,664,193289.338
+Wildfire,2005,0,42,193289.338
+All disasters,2006,0,23865,199521.244
+All disasters excluding earthquakes,2006,0,17173,199521.244
+All disasters excluding extreme temperature,2006,0,18758,199521.244
+Drought,2006,0,169,199521.244
+Dry mass movement,2006,0,11,199521.244
+Earthquake,2006,0,6692,199521.244
+Extreme temperature,2006,0,5107,199521.244
+Extreme weather,2006,0,4347,199521.244
+Flood,2006,0,5868,199521.244
+Volcanic activity,2006,0,5,199521.244
+Wet mass movement,2006,0,1638,199521.244
+Wildfire,2006,0,28,199521.244
+All disasters,2007,0,16839,204710.396
+All disasters excluding earthquakes,2007,0,16059,204710.396
+All disasters excluding extreme temperature,2007,0,15813,204710.396
+Drought,2007,0,0,204710.396
+Earthquake,2007,0,780,204710.396
+Extreme temperature,2007,0,1026,204710.396
+Extreme weather,2007,0,6013,204710.396
+Flood,2007,0,8590,204710.396
+Volcanic activity,2007,0,11,204710.396
+Wet mass movement,2007,0,271,204710.396
+Wildfire,2007,0,148,204710.396
+All disasters,2008,0,235369,207879.922
+All disasters excluding earthquakes,2008,0,147451,207879.922
+All disasters excluding extreme temperature,2008,0,233666,207879.922
+Drought,2008,0,5,207879.922
+Dry mass movement,2008,0,120,207879.922
+Earthquake,2008,0,87918,207879.922
+Extreme temperature,2008,0,1703,207879.922
+Extreme weather,2008,0,140985,207879.922
+Flood,2008,0,4032,207879.922
+Volcanic activity,2008,0,16,207879.922
+Wet mass movement,2008,0,504,207879.922
+Wildfire,2008,0,86,207879.922
+All disasters,2009,0,10813,203698.609
+All disasters excluding earthquakes,2009,0,8920,203698.609
+All disasters excluding extreme temperature,2009,0,9583,203698.609
+Drought,2009,0,3,203698.609
+Dry mass movement,2009,0,36,203698.609
+Earthquake,2009,0,1893,203698.609
+Extreme temperature,2009,0,1230,203698.609
+Extreme weather,2009,0,3287,203698.609
+Flood,2009,0,3523,203698.609
+Volcanic activity,2009,0,0,203698.609
+Wet mass movement,2009,0,651,203698.609
+Wildfire,2009,0,190,203698.609
+All disasters,2010,0,307735,215151.807
+All disasters excluding earthquakes,2010,0,81002,215151.807
+All disasters excluding extreme temperature,2010,0,250564,215151.807
+Drought,2010,0,10000,215151.807
+Earthquake,2010,0,226733,215151.807
+Extreme temperature,2010,0,57171,215151.807
+Extreme weather,2010,0,1543,215151.807
+Flood,2010,0,8300,215151.807
+Volcanic activity,2010,0,323,215151.807
+Wet mass movement,2010,0,3499,215151.807
+Wildfire,2010,0,166,215151.807
+All disasters,2011,0,41323,221924.562
+All disasters excluding earthquakes,2011,0,20377,221924.562
+All disasters excluding extreme temperature,2011,0,40670,221924.562
+Drought,2011,0,10000,221924.562
+Earthquake,2011,0,20946,221924.562
+Extreme temperature,2011,0,653,221924.562
+Extreme weather,2011,0,3124,221924.562
+Flood,2011,0,6279,221924.562
+Volcanic activity,2011,0,3,221924.562
+Wet mass movement,2011,0,309,221924.562
+Wildfire,2011,0,9,221924.562
+All disasters,2012,0,9608,225160.415
+All disasters excluding earthquakes,2012,0,8897,225160.415
+All disasters excluding extreme temperature,2012,0,7988,225160.415
+Drought,2012,0,0,225160.415
+Dry mass movement,2012,0,16,225160.415
+Earthquake,2012,0,711,225160.415
+Extreme temperature,2012,0,1620,225160.415
+Extreme weather,2012,0,3105,225160.415
+Flood,2012,0,3633,225160.415
+Volcanic activity,2012,0,0,225160.415
+Wet mass movement,2012,0,501,225160.415
+Wildfire,2012,0,22,225160.415
+All disasters,2013,0,21847,226555.345
+All disasters excluding earthquakes,2013,0,20727,226555.345
+All disasters excluding extreme temperature,2013,0,19812,226555.345
+Drought,2013,0,0,226555.345
+Dry mass movement,2013,0,46,226555.345
+Earthquake,2013,0,1120,226555.345
+Extreme temperature,2013,0,2035,226555.345
+Extreme weather,2013,0,8598,226555.345
+Flood,2013,0,9778,226555.345
+Volcanic activity,2013,0,0,226555.345
+Wet mass movement,2013,0,235,226555.345
+Wildfire,2013,0,35,226555.345
+All disasters,2014,0,7975,227582.198
+All disasters excluding earthquakes,2014,0,7201,227582.198
+All disasters excluding extreme temperature,2014,0,6807,227582.198
+Drought,2014,0,0,227582.198
+Earthquake,2014,0,774,227582.198
+Extreme temperature,2014,0,1168,227582.198
+Extreme weather,2014,0,1432,227582.198
+Flood,2014,0,3523,227582.198
+Volcanic activity,2014,0,102,227582.198
+Wet mass movement,2014,0,960,227582.198
+Wildfire,2014,0,16,227582.198
+All disasters,2015,0,22879,227612.885
+All disasters excluding earthquakes,2015,0,13329,227612.885
+All disasters excluding extreme temperature,2015,0,15454,227612.885
+Drought,2015,0,35,227612.885
+Dry mass movement,2015,0,13,227612.885
+Earthquake,2015,0,9550,227612.885
+Extreme temperature,2015,0,7425,227612.885
+Extreme weather,2015,0,1288,227612.885
+Flood,2015,0,3484,227612.885
+Volcanic activity,2015,0,0,227612.885
+Wet mass movement,2015,0,1006,227612.885
+Wildfire,2015,0,78,227612.885
+All disasters,2016,0,8395,227618.086
+All disasters excluding earthquakes,2016,0,7084,227618.086
+All disasters excluding extreme temperature,2016,0,7905,227618.086
+Drought,2016,0,0,227618.086
+Earthquake,2016,0,1311,227618.086
+Extreme temperature,2016,0,490,227618.086
+Extreme weather,2016,0,1759,227618.086
+Flood,2016,0,4438,227618.086
+Volcanic activity,2016,0,0,227618.086
+Wet mass movement,2016,0,357,227618.086
+Wildfire,2016,0,40,227618.086
+All disasters,2017,0,9761,231066.768
+All disasters excluding earthquakes,2017,0,8749,231066.768
+All disasters excluding extreme temperature,2017,0,9402,231066.768
+Drought,2017,0,0,231066.768
+Dry mass movement,2017,0,8,231066.768
+Earthquake,2017,0,1012,231066.768
+Extreme temperature,2017,0,359,231066.768
+Extreme weather,2017,0,2543,231066.768
+Flood,2017,0,3349,231066.768
+Volcanic activity,2017,0,0,231066.768
+Wet mass movement,2017,0,2312,231066.768
+Wildfire,2017,0,178,231066.768
+All disasters,2018,0,11665,235455.96
+All disasters excluding earthquakes,2018,0,6604,235455.96
+All disasters excluding extreme temperature,2018,0,11068,235455.96
+Drought,2018,0,0,235455.96
+Dry mass movement,2018,0,17,235455.96
+Earthquake,2018,0,5061,235455.96
+Extreme temperature,2018,0,597,235455.96
+Extreme weather,2018,0,1726,235455.96
+Flood,2018,0,2881,235455.96
+Volcanic activity,2018,0,914,235455.96
+Wet mass movement,2018,0,248,235455.96
+Wildfire,2018,0,221,235455.96
+All disasters,2019,0,11923,236804.781
+All disasters excluding earthquakes,2019,0,11662,236804.781
+All disasters excluding extreme temperature,2019,0,8798,236804.781
+Drought,2019,0,79,236804.781
+Earthquake,2019,0,261,236804.781
+Extreme temperature,2019,0,3125,236804.781
+Extreme weather,2019,0,2514,236804.781
+Flood,2019,0,5074,236804.781
+Volcanic activity,2019,0,21,236804.781
+Wet mass movement,2019,0,744,236804.781
+Wildfire,2019,0,105,236804.781
+All disasters,2020,0,15632,224973.704
+All disasters excluding earthquakes,2020,0,15436,224973.704
+All disasters excluding extreme temperature,2020,0,8999,224973.704
+Drought,2020,0,47,224973.704
+Earthquake,2020,0,196,224973.704
+Extreme temperature,2020,0,6633,224973.704
+Extreme weather,2020,0,1758,224973.704
+Flood,2020,0,6397,224973.704
+Volcanic activity,2020,0,1,224973.704
+Wet mass movement,2020,0,514,224973.704
+Wildfire,2020,0,86,224973.704
+All disasters,2021,0,10525,236484.694
+All disasters excluding earthquakes,2021,0,7783,236484.694
+All disasters excluding extreme temperature,2021,0,9481,236484.694
+Drought,2021,0,4,236484.694
+Earthquake,2021,0,2742,236484.694
+Extreme temperature,2021,0,1044,236484.694
+Extreme weather,2021,0,1893,236484.694
+Flood,2021,0,4137,236484.694
+Glacial lake outburst flood,2021,0,250,236484.694
+Volcanic activity,2021,0,104,236484.694
+Wet mass movement,2021,0,224,236484.694
+Wildfire,2021,0,127,236484.694
+All disasters,2022,0,76100,237679.814
+All disasters excluding earthquakes,2022,0,74474,237679.814
+All disasters excluding extreme temperature,2022,0,14318,237679.814
+Drought,2022,0,2601,237679.814
+Earthquake,2022,0,1626,237679.814
+Extreme temperature,2022,0,61782,237679.814
+Extreme weather,2022,0,1583,237679.814
+Flood,2022,0,8011,237679.814
+Glacial lake outburst flood,2022,0,11,237679.814
+Volcanic activity,2022,0,6,237679.814
+Wet mass movement,2022,0,403,237679.814
+Wildfire,2022,0,77,237679.814
